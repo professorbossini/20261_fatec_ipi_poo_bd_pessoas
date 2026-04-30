@@ -1,3 +1,6 @@
+-- Active: 1777376095597@@127.0.0.1@5432@20261_fatec_ipi_poo_pessoas
+SELECT * FROM tb_pessoa;
+
 -- INSERT INTO tb_pessoa
 -- (nome, fone, email, ativo)
 -- VALUES
